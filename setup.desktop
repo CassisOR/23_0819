@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type = Application
+Encoding = UTF-8
+Name = LAMPP Manager
+Comment = LAMPP Control Panel
+Exec= ./home/per/set1.sh
+Icon= /opt/lampp/favicon.ico
+Terminal = true
